@@ -14,7 +14,7 @@
     <tags>gsl,unique,uc,creator</tags>
   </metadata>
   <files>
-    <file src = "include\**" target = "include" />
-    <file src = "build\gsl.targets" target = "build" />
+    <file src = "include\**" target = "build/native" />
+    <file src = "build\microsoft-gsl-library.targets" target = "build/native" />
   </files>
 </package>
