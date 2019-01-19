@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>microsoft gsl library</id>
+    <id>microsoft-gsl-library</id>
     <version>@version</version>
-    <title>microsoft gsl library</title>
+    <title>microsoft gsllibrary</title>
     <authors>Stefan Dyulgerov</authors>
     <owners>kingofthebongo2009</owners>
     <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
